@@ -2,4 +2,4 @@
 
 Hi. I am Faith. I enjoy working on teams to create awesome solutions to problems. Aside from that, I love to analyse music and I am a very good cook.
 
-Ruby and Rust picked my interest of recent. I am curently fiddling with them - see the possibility of s couple of projects popping out.
+Ruby and Rust are currently on my radar. I am curently fiddling with them - see the possibility of a couple of projects popping out.
